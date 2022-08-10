@@ -1,0 +1,13 @@
+D:\Proje\DogukanBaser\bin\Debug\DogukanBaser.exe.config
+D:\Proje\DogukanBaser\bin\Debug\DogukanBaser.exe
+D:\Proje\DogukanBaser\bin\Debug\DogukanBaser.pdb
+D:\Proje\DogukanBaser\obj\Debug\DogukanBaser.csproj.AssemblyReference.cache
+D:\Proje\DogukanBaser\obj\Debug\DogukanBaser.csproj.SuggestedBindingRedirects.cache
+D:\Proje\DogukanBaser\obj\Debug\DogukanBaser.oyun.resources
+D:\Proje\DogukanBaser\obj\Debug\DogukanBaser.Properties.Resources.resources
+D:\Proje\DogukanBaser\obj\Debug\DogukanBaser.csproj.GenerateResource.cache
+D:\Proje\DogukanBaser\obj\Debug\DogukanBaser.csproj.CoreCompileInputs.cache
+D:\Proje\DogukanBaser\obj\Debug\DogukanBaser.exe
+D:\Proje\DogukanBaser\obj\Debug\DogukanBaser.pdb
+D:\Proje\DogukanBaser\obj\Debug\DogukanBaser.Form2.resources
+D:\Proje\DogukanBaser\obj\Debug\DogukanBaser.Nasıl_oynanır.resources
